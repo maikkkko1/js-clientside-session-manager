@@ -1,6 +1,6 @@
 {
   "name": "clientside-session-manager",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A client-side session manager, manage access token and user data.",
   "main": "index.js",
   "scripts": {

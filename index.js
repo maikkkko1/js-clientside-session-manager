@@ -122,7 +122,7 @@ export default class SessionManager {
   }
 
   /**
-   * Update a unique information in user data.
+   * Updates unique information in user data.
    * @param {string} detailKey
    * @param {*} newValue
    */
@@ -142,7 +142,7 @@ export default class SessionManager {
   }
 
   /**
-   * Add a new information in user data.
+   * Adds new information in user data.
    * @param {string} detailKey
    * @param {*} value
    */
@@ -160,7 +160,7 @@ export default class SessionManager {
   }
 
   /**
-   * Destroy the current active session.
+   * Destroys the current active session.
    * @param {boolean} reload
    */
   static destroy(reload) {

@@ -11,7 +11,7 @@ npm i clientside-session-manager
 Import the module.
 
 ```javascript
-import SessionManager from 'js-clientside-session-manager';
+import SessionManager from 'clientside-session-manager';
 ```
 
 And then the session manager methods will be available.
