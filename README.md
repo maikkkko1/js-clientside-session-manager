@@ -5,7 +5,7 @@
 
 ### Getting started
 ```
-npm i js-clientside-session-manager
+npm i clientside-session-manager
 ```
 
 Import the module.
