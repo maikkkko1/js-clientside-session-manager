@@ -1,0 +1,21 @@
+{
+  "name": "clientside-session-manager",
+  "version": "1.0.0",
+  "description": "A client-side session manager, manage access token and user data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maikkkko1/clientside-session-manager"
+  },
+  "keywords": [
+    "session",
+    "manager",
+    "session-manager",
+    "session manager"
+  ],
+  "author": "Maikon Ferreira",
+  "license": "ISC"
+}
