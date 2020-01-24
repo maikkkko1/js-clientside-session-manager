@@ -31,7 +31,7 @@ export default class SessionManager {
   }
 
   /**
-   * Return the full user data object.
+   * Returns the full user data object.
    * @return {object}
    * */
   static getAll() {
@@ -45,7 +45,7 @@ export default class SessionManager {
   }
 
   /**
-   * Return a unique information from user data.
+   * Returns a unique information from user data.
    * @param {string} detailKey
    * @return {*}
    */
@@ -66,7 +66,7 @@ export default class SessionManager {
   }
 
   /**
-   * Return the access token.
+   * Returns the access token.
    * @return {string}
    * */
   static getToken() {
@@ -74,7 +74,7 @@ export default class SessionManager {
   }
 
   /**
-   * Check if an active session exists.
+   * Returns whether a valid session exists.
    * @return {boolean}
    */
   static exists() {
